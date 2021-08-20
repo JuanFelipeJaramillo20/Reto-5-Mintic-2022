@@ -1,0 +1,13 @@
+vista\PanelConsulta3.class
+modelo\dao\Consulta3DAO.class
+modelo\vo\Consulta1Vo.class
+main\Main.class
+modelo\vo\Consulta2Vo.class
+controlador\controlador.class
+modelo\vo\Consulta3Vo.class
+vista\VentanaConsultas.class
+modelo\dao\Consulta2DAO.class
+util\JDBCUtilities.class
+vista\PanelConsulta1.class
+vista\PanelConsulta2.class
+modelo\dao\Consulta1DAO.class
